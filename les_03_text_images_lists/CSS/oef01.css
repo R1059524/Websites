@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: darkblue;
+}
+
+.logo {
+    width: 200px;
+}
+hr {
+    border-top: 1px;
+    border-color: darkblue;
+}
+h1 {
+    margin: 0;
+    padding: 0;
+    font-size: 2em;
+    color: orangered;
+}
+p,a {
+    margin: 0;
+    padding: 15px;
+}
+
+a {
+    text-decoration: underline;
+}
+a:hover {
+    color: orangered;
+}
+
+.container {
+    margin: 0;
+    margin-top: 10px;
+    background-color: darkblue;
+    text-align: center;
+}
+
+.logowit {
+    padding: 20px;
+    width: 200px;
+}
+
+/* 
+.container {
+    margin: 0;
+    margin-top: 10px;
+    background-color: darkblue;
+}
+
+.logowit {
+    padding: 20px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+*/

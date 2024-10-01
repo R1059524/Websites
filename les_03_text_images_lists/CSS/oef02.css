@@ -1,0 +1,27 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+    font-size: 2em;
+    color: orangered;
+}
+
+hr {
+    border-top: 1px;
+    border-color: darkblue;
+}
+
+img {
+    border-radius: 5%;
+    margin: 15px;
+    float: left;
+    opacity: 0.5;
+}
+
+img:hover {
+    opacity: 1;
+    box-shadow: 2px 2px orange ;
+}

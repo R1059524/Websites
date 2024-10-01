@@ -1,0 +1,28 @@
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    font-size: 16px;
+    color: darkblue;
+}
+
+.weekplanner {
+    width: 400px;
+}
+
+.container {
+    padding: 20px;
+    width: 400px;
+}
+li {
+    margin: 0;
+    padding: 3px;
+}
+
+ol {
+    background-color: orangered;
+    color: white;
+}
+ul {
+    background-color: darkblue;
+    color: white;
+    margin-right: 10px;
+}

@@ -1,0 +1,32 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    color: darkblue;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+    font-size: 2em;
+    color: orangered;
+}
+
+h2 {
+    margin: 0;
+    padding-top: 10px;
+    font-size: 1.5em;
+    color: darkblue;
+}
+
+.logo {
+    width: 200px;
+    margin: 20px;
+}
+
+a {
+    color: darkblue;
+    text-decoration: underline;
+}
+a:hover {
+    color: orange;
+}
