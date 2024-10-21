@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 16px;
+}
+
+.flex-container1 {
+    display: flex;
+}
+.head1 {
+    background-color: lightblue;
+}
+.head2 {
+    background-color: purple;
+}
+.head3 {
+    background-color: green;
+}
+
+.flex-container2 {
+    display: flex;
+}
+.bodymenu {
+    background-color: yellow;
+    padding: 10px;
+}
+.menu1 {
+    background-color: lightblue;
+}
+.menu2 {
+    background-color: green;
+}
+.menu3 {
+    background-color: purple;
+}
+.body2 {
+    background-color: red;
+}
+.body3 {
+    background-color: purple;
+}
+.body4 {
+    background-color: lightgreen;
+}
+
+.flex-container3 {
+    display: flex;
+}
+.foot1 {
+    background-color: darkblue;
+    width: 50%;
+}
+.foot2 {
+    background-color: khaki;
+    width: 50%;
+}

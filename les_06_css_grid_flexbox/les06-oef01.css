@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.richting {
+    z-index: 1;
+    font-size: 24px;
+    color: white;
+    font-family: "Edu AU VIC WA NT Guides", cursive;
+}
+body {
+    background: url(kompas.jpg) no-repeat center center fixed;
+    /* background-image: url(kompas.jpg);
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;*/
+    z-index: -1;
+}
+
+.N {
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    right: 50%;
+    bottom: 95%;
+}
+.O {
+    position: absolute;
+    top: 50%;
+    left: 95;
+    right: 5%;
+    bottom: 50%;
+}
+.Z {
+    position: absolute;
+    top: 95%;
+    left: 50%;
+    right: 50%;
+    bottom: 5%;
+}
+.W {
+    position: absolute;
+    top: 50%;
+    left: 5%;
+    right: 95;
+    bottom: 50%;
+}
